@@ -1,4 +1,4 @@
 *.html linguist-detectable=true
-*.Cmake linguist-detectable=false
-*.kotlin linguist-detectable=false
+*.CMake linguist-detectable=false
+*.Kotlin linguist-detectable=false
 *.swift linguist-detectable=false
