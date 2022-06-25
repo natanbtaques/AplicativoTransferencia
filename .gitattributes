@@ -3,4 +3,5 @@
 *.Kotlin linguist-detectable=false
 *.swift linguist-detectable=false
 *.txt linguist-detectable=false
+.gradle linguist-detectable=false
 
